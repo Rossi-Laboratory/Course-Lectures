@@ -1,6 +1,6 @@
 # Image Sensing Pipeline
 
-<img style="float: left;" src="1.png" width="80%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=18DPd-oXCprb8RBiCNJNdRnDZxQIqHRHg" width="80%">
 
 # In this homework ……
 
