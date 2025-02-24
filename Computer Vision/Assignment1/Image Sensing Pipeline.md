@@ -1,4 +1,5 @@
 # Image Sensing Pipeline
+Please download this [ipynb file](https://drive.google.com/uc?export=view&id=1LwV17gO5K-Wx72kfa6lwzPIbuvHDQ1hx) and follow the TODOs to complete the program.
 
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=18DPd-oXCprb8RBiCNJNdRnDZxQIqHRHg" width="80%">
 
