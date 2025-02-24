@@ -65,7 +65,7 @@ plt.title('Brightness')
 
 
 
-![png](output_9_1.png)
+![png](https://drive.google.com/uc?export=view&id=1c7H3CYk8dlfguJbstANywiO9pyjuzFjM)
 
 
 
