@@ -4,7 +4,7 @@
 
 # In this homework ……
 
-<img style="float: left;" src="2.png" width="80%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1jvmCDrFQZLQ87uUvEKpihHPIRwzIsYvM" width="80%">
 
 
 ```python
