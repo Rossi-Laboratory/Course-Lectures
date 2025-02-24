@@ -256,7 +256,7 @@ plt.title('Image after CIE')
 
 
 
-![png](output_26_2.png)
+![png](https://drive.google.com/uc?export=view&id=14uI7BX88Yb73RQ5W5BN0BC-weC58glEy)
 
 
 ## 3.3. Color Correction
@@ -341,7 +341,7 @@ plt.title('Image after CCM')
 
 
 
-![png](output_31_2.png)
+![png](https://drive.google.com/uc?export=view&id=1Dcw4xS_jVJkCIA0OVsggxIppnBSsVFaT)
 
 
 ## 3.4 Mosaic
@@ -448,7 +448,7 @@ plt.title('Image after mosaic')
 
 
 
-![png](output_35_2.png)
+![png](https://drive.google.com/uc?export=view&id=1jwlecE7j6MovcXKy8TCl2maLyoDPUC1F)
 
 
 ## 3.5 Inverse AWB
@@ -535,7 +535,7 @@ plt.title('Image after Inverse WB')
 
 
 
-![png](output_39_2.png)
+![png](https://drive.google.com/uc?export=view&id=1pfRnQv1lpY5A4-jYNIgQ5WTf95GbOiHN)
 
 
 # 4. ISP Process
@@ -568,7 +568,7 @@ plt.title('Image after WG')
 
 
 
-![png](output_43_1.png)
+![png](https://drive.google.com/uc?export=view&id=1Wi6vUdQfUX5iGen6ZcnYIvUsvYtkgg_u)
 
 
 ## 4.2 Demosaic
@@ -600,7 +600,7 @@ plt.title('Image after demosaic')
 
 
 
-![png](output_46_1.png)
+![png](https://drive.google.com/uc?export=view&id=1I_nZD8AoFqotBM-PPeMpMQmADuTP00dU)
 
 
 ## 4.3 Color Correction
@@ -635,7 +635,7 @@ plt.title('Image after Color Correction')
 
 
 
-![png](output_49_1.png)
+![png](https://drive.google.com/uc?export=view&id=19dST7jt4rIFHDCcassdl4B7kO9pJBxVs)
 
 
 ## 4.4 XYZ2RGB
@@ -673,7 +673,7 @@ plt.title('Image after XYZ2RGB')
 
 
 
-![png](output_52_1.png)
+![png](https://drive.google.com/uc?export=view&id=1RNLyihGW4fG2hsXycRkTFQr41rkKUuXw)
 
 
 ## 4.5 tone_mapping
@@ -714,7 +714,7 @@ plt.title('Image after tone mapping')
 
 
 
-![png](output_55_1.png)
+![png](https://drive.google.com/uc?export=view&id=1jSC1R7zFmoXtoxH1btjVjtynuHwmhAeR)
 
 
 
@@ -736,7 +736,7 @@ plt.title('Image after inverse process')
 
 
 
-![png](output_56_1.png)
+![png](https://drive.google.com/uc?export=view&id=1IMxtOIRf-sh59Q3o3t8Te-JT9mpzcEFD)
 
 
 ## Peak Signal-to-Noise Ratio
