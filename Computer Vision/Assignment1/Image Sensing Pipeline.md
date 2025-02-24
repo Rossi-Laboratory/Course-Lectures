@@ -214,13 +214,13 @@ plt.title('Image after inverse tone')
 
 
 
-![png](output_22_1.png)
+![png](https://drive.google.com/uc?export=view&id=1Fn_6JAfpHshbOxFngMmctPaEqMdlKfzi)
 
 
 ## 3.2 from RGB to CIE XYZ
 The CIE XYZ color space is a more universal color representation method that is independent of device characteristics and closer to the perception of the **human visual system**. The CIE XYZ color space is composed of three color components: X, Y, and Z. Among these, X and Y represent the **brightness** and **saturation** of the color, while Z represents the **hue** of the color.
 
-<img style="float: left;" src="./images/3.jpg" width="60%">
+<img style="float: left;" src="https://drive.google.com/file/d/1-jpaVvYfWpsDBqqrkclCdepoT5GrSbwZ/view?usp=drive_link" width="60%">
 
 
 ```python
