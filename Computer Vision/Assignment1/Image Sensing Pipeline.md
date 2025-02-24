@@ -17,11 +17,6 @@ import scipy.io
 import numpy as np
 import matplotlib.pyplot as plt
 %matplotlib inline
-
-from tone_mapping import tone_mapping
-from color_correction import BGR2RGB, RGB2BGR, RGB2XYZ, XYZ2RGB, color_correction
-from demosaic_and_mosaic import mosaic, demosaic
-from white_balance import generate_wb_mask
 ```
 
 # 1. Camera  Parameters
