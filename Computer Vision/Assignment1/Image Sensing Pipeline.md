@@ -122,7 +122,7 @@ plt.imshow(img)
 
 
 
-![png](output_16_1.png)
+![png](https://drive.google.com/uc?export=view&id=19nKPIjs-MX-Xkf7zFY3h7-n0rvhJvMl5)
 
 
 
@@ -148,7 +148,7 @@ plt.imshow(img)
 
 
 
-![png](output_17_1.png)
+![png](https://drive.google.com/uc?export=view&id=1ijy7U5oVGotircIY-00LBGcNN9TBXsHy)
 
 
 # 3. Inverse ISP Process
