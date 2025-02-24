@@ -1,6 +1,8 @@
 # Image Sensing Pipeline
 Download the [ipynb file](https://drive.google.com/uc?export=view&id=1LwV17gO5K-Wx72kfa6lwzPIbuvHDQ1hx), [`tone_curves.mat`](https://drive.google.com/uc?export=view&id=1S6cybmirw5ewXt1gKgwz-ui76fCr5pI4), and [`tone_curves_inv.mat`](https://drive.google.com/uc?export=view&id=17GVpWP4kYOUvvYTHH54h3eVxvXK7sSkL), and follow the TODOs to complete the program.
+
 Ensure that all files are placed in the same folder directory.
+
 Submit your files on [E3](https://portal.nycu.edu.tw/#/): the code and the report (covering four questions). Provide the submissions in both .ipynb and PDF formats, respectively.
 
 
