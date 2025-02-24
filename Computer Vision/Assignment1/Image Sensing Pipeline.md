@@ -1,7 +1,4 @@
 # Image Sensing Pipeline
-Please download this [ipynb file](https://drive.google.com/uc?export=view&id=1LwV17gO5K-Wx72kfa6lwzPIbuvHDQ1hx) and follow the TODOs to complete the program.
-
-
 Please download this [ipynb file](https://drive.google.com/uc?export=view&id=1LwV17gO5K-Wx72kfa6lwzPIbuvHDQ1hx), [`tone_curves.mat`](https://drive.google.com/uc?export=view&id=1S6cybmirw5ewXt1gKgwz-ui76fCr5pI4), and [`tone_curves_inv.mat`](https://drive.google.com/uc?export=view&id=17GVpWP4kYOUvvYTHH54h3eVxvXK7sSkL), and follow the TODOs to complete the program.  
 Please note that these files should be placed in the same folder directory.
 
