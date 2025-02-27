@@ -10,7 +10,7 @@ Submit your files on [E3](https://portal.nycu.edu.tw/#/): the code and the repor
 
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=18DPd-oXCprb8RBiCNJNdRnDZxQIqHRHg" width="80%">
 
-# In this homework ¡K¡K
+# In this homework:
 
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1jvmCDrFQZLQ87uUvEKpihHPIRwzIsYvM" width="80%">
 
