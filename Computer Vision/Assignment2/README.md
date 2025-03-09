@@ -3,6 +3,7 @@
 ## **1. Required Libraries:**  
 The following libraries will be used in this assignment:  
 `os`, `cv2`, `numpy`, `matplotlib`, `scipy`  
+**Notice:** `cv2` should only be used for image conversion (e.g., `BGR2RGB`, `BGR2GRAY`). It **must not** be used directly for the required code in this assignment (e.g., `cv2.Sobel`, `cv2.Laplacian`, `cv2.cornerHarris`).
 
 ## **2. Python Files:**  
 - `hw2.py` (Main execution file)  
