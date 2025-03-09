@@ -1,13 +1,48 @@
+# **Homework 2 Instructions**  
 
-# Homework 2 說明
+## **1. Required Libraries:**  
+The following libraries will be used in this assignment:  
+`os`, `cv2`, `numpy`, `matplotlib`, `scipy`  
 
-## 1. 本次作業用到的Library: `os`, `cv2`, `numpy`, `matplotlib`, `scipy`
-## 2. py 檔: `hw2.py` (執行檔), `Harris_Corner_Detection.py` (Function)
-## 3. 若要執行程式, 產生圖片, 請輸入: `python hw2.py`
-## 4. Function 包含:  `gaussian_smooth`, `sobel_edge_detection`, `structure_tensor`, `NMS`, `rotate`
-## 5. results 內容包含5個子Folder, 分別為:
-> ### (1) `Gaussian smooth results`: 2張圖片, 分別是 Gaussian smooth results: 𝜎=5 and kernel size=5 與 Gaussian smooth results: 𝜎=5 and kernel size=10 images)
-> ### (2) `Sobel edge detection results`: 4張圖片, 分別是 magnitude of gradient (Gaussian kernel size=5 and 10) (2 images) 與 direction of gradient (Gaussian kernel size=5 and 10) (2 images)
-> ### (3) `Structure tensor + NMS results`: 2張圖片, 分別是 window size = 3x3 與 window size = 30x30
-> ### (4) `Final results of rotating`: 1張圖片, 內容為 Final results of rotating (by 30°) original images 
-> ### (5) `Final results of scaling`: 1張圖片, 內容為 Final results of scaling (to 0.5x) original images
+## **2. Python Files:**  
+- `hw2.py` (Main execution file)  
+- `Harris_Corner_Detection.py` (Function file)  
+
+## **3. Running the Program:**  
+To execute the program and generate images, enter the following command:  
+```bash
+python hw2.py
+```  
+
+## **4. Functions Included:**  
+- `gaussian_smooth`  
+- `sobel_edge_detection`  
+- `structure_tensor`  
+- `NMS` (Non-Maximum Suppression)  
+- `rotate`  
+
+## **5. Contents of the `results` Folder:**  
+The `results` directory contains five subfolders with the following outputs:  
+
+### **(1) `Gaussian smooth results`**  
+Contains **2 images**:  
+- **Gaussian smooth results:** \( \sigma = 5 \), kernel size = 5  
+- **Gaussian smooth results:** \( \sigma = 5 \), kernel size = 10  
+
+### **(2) `Sobel edge detection results`**  
+Contains **4 images**:  
+- **Magnitude of gradient** (Gaussian kernel size = 5 and 10) → **2 images**  
+- **Direction of gradient** (Gaussian kernel size = 5 and 10) → **2 images**  
+
+### **(3) `Structure tensor + NMS results`**  
+Contains **2 images**:  
+- Window size = **3×3**  
+- Window size = **30×30**  
+
+### **(4) `Final results of rotating`**  
+Contains **1 image**:  
+- **Final result after rotating** the original image by **30°**  
+
+### **(5) `Final results of scaling`**  
+Contains **1 image**:  
+- **Final result after scaling** the original image to **0.5×**  
