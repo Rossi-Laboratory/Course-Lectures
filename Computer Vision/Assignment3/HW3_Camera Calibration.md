@@ -190,7 +190,7 @@ Project(img1, point2D1, TwoDD1,save_name='verify of chessboard_1')
 
 
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1YvbLsEp0PH7w_rqHYw9V9CAoYUS3YTz7" width="80%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1YvbLsEp0PH7w_rqHYw9V9CAoYUS3YTz7" width="40%">
 
 
 
