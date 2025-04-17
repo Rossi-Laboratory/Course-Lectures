@@ -210,13 +210,8 @@ Project(img2, point2D2, TwoDD2,save_name='verify of chessboard_2')
 
 ### K, R, T
 
-$$
-\begin{align}
-\bb{P} 
-&= \bb{K} [\bb{R} \mid \bb{T}] = [\bb{KR} \mid \bb{KT}] \\ 
-&= [\bb{P_{3\times3}} \mid \bb{P_4}] = [\bb{M} \mid \bb{P_4}]
-\end{align}
-$$
+**P** = **K** [**R** | **T**] = [**KR** | **KT**]  
+    = [**P**<sub>3×3</sub> | **P**<sub>4</sub>] = [**M** | **P**<sub>4</sub>]
 
 That is,
 
