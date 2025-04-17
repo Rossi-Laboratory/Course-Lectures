@@ -70,11 +70,12 @@ p_{11} \\ p_{12} \\ p_{13} \\ \vdots \\ p_{34}
 = \bb{0}
 $$
 
-It is a homogenious system $\bb{A}\bb{p} = \bb{0}$. Since there are 12 unknows, but the actual degree of freedom of $\bb{p}$ is 11 (5 in $\bb{K}$, 3 in $\bb{R}$, 3 in $\bb{T}$), we add one constraint to the system: $\norm{\bb{p}} = 1$.
+It is a homogeneous system **A p = 0**.  
+Since there are 12 unknowns, but the actual degree of freedom of **p** is 11 (5 in **K**, 3 in **R**, and 3 in **T**), we add one constraint to the system: ‖**p**‖ = 1.
 
-Usually more than 6 correspondences are given, the system doesn't have an unique solution. Instead, we try to find the $\bb{p}$ that minimize $\norm{\bb{Ap } - \bb{0}}$. The solution is the eigenvector of $\bb{A^T A}$ which has minimum eigenvalue. The proof is given in Appendix.
+Usually, more than 6 correspondences are given, so the system doesn't have a unique solution. Instead, we try to find the **p** that minimizes ‖**A** **p** − **0**‖. The solution is the eigenvector of **AᵀA** (i.e., **A<sup>T</sup>A**) that corresponds to the minimum eigenvalue. The proof is given in the appendix.
 
-Another way to solve this system is to use least square method. However the unit norm constraint cannot be expressed in our system, we use another constraint instead,
+Another way to solve this system is to use the least squares method. However, since the unit norm constraint cannot be directly expressed in the system, we use another constraint instead:
 
 $$
 p_{11} + p_{12} + \ldots + p_{34} = 1
