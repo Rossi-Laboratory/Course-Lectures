@@ -20,7 +20,7 @@ img1 = cv2.imread('data/image1.jpeg')
 img2 = cv2.imread('data/image2.jpeg')
 ```
 
-### (A) Compute the projection matrix $ {P} $ from a set of 2D-3D point correspondences by using the leastsquares (eigenvector) method for each image.
+### (A) Compute the projection matrix $$ {P} $$ from a set of 2D-3D point correspondences by using the leastsquares (eigenvector) method for each image.
 
 A pair of corresponding point in homogenous coordinate satisfies:
 
