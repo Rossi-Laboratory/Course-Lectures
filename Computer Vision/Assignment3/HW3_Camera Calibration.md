@@ -203,7 +203,7 @@ Project(img2, point2D2, TwoDD2,save_name='verify of chessboard_2')
 
 
 
-![png](output_10_1.png)
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1rZdtLEQ0DpUgaOV7aOJB3acaSeOL2RGu" width="40%">
 
 
 ### (B) Decompose the two computed projection matrices from (A) into the camera intrinsic matrices K, rotation matrices R and translation vectors t by using the Gram-Schmidt process.
@@ -345,7 +345,7 @@ Project(img1, point2D1, TwoD1,save_name='ReProject2D of chessboard_1')
 
 
 
-![png](output_20_1.png)
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1MXbJIHBtnjaHX8yq9NuZb3X-1Z5TTuul" width="40%">
 
 
 
@@ -358,7 +358,7 @@ Project(img2, point2D2, TwoD2,save_name='ReProject2D of chessboard_2')
 
 
 
-![png](output_21_1.png)
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1n8mQvbIT6M6ByyhLD7syGUViDX4ZSIo8" width="40%">
 
 
 ### (D) Plot camera poses for the computed extrinsic parameters (R, t) and then compute the angle between the two camera pose vectors.
@@ -390,7 +390,7 @@ visualize(point3D, R1, T1.reshape(3,1), R2, T2.reshape(3,1),save_name)
     
 
 
-![png](output_25_1.png)
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1dMiojbZ-IWeg42TEWKE4YyGr7izbBZFx" width="80%">
 
 
 ### (E) Print out two “chessboard.png” in the attached file and paste them on a box. Take two pictures from different angles. For each image, perform the steps above (A ~ D).
@@ -410,7 +410,7 @@ plt.imshow(cb)
 
 
 
-![png](output_27_1.png)
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1OFdwS-JH8Wm7m9xK7NlRFntkH9J9CzhY" width="80%">
 
 
 
