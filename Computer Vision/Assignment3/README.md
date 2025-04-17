@@ -35,4 +35,4 @@
 
 ---
 
-For questions, please contact the instructor at **yfyangd@nycu.edu.tw**.
+For questions, please contact the TA at E3.
