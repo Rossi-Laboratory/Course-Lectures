@@ -24,7 +24,16 @@ img2 = cv2.imread('data/image2.jpeg')
 
 A pair of corresponding point in homogenous coordinate satisfies:
 
-<pre> ```latex \[ \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} \sim \mathbf{P} \begin{bmatrix} X \\ Y \\ Z \\ 1 \end{bmatrix} \] ``` </pre>
+$$
+\begin{bmatrix}
+u \\ v \\ 1
+\end{bmatrix}
+\sim
+\mathbf{P}
+\begin{bmatrix}
+X \\ Y \\ Z \\ 1
+\end{bmatrix}
+$$
 
 Where $\sim$ means equality up to scale. We can derive two equations:
 
