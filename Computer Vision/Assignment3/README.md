@@ -1,7 +1,8 @@
 # HW3: Camera Calibration
 
 **Course:** IIAI30013 - Computer Vision  
-**Instructor:** YuanFu Yang (yfyangd@nycu.edu.tw)  
+**Instructor:** YuanFu Yang
+**TA:** 陳政錡
 **Institute:** Institute of Artificial Intelligence Innovation
 
 ## 📅 Deadline
@@ -35,4 +36,4 @@
 
 ---
 
-For questions, please contact the TA at E3.
+For questions, please contact the TA on E3.
