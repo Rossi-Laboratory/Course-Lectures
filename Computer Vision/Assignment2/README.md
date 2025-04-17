@@ -1,4 +1,4 @@
-# 📘 **Homework 2 Instructions**
+# **Homework 2 Instructions**
 
 ---
 
