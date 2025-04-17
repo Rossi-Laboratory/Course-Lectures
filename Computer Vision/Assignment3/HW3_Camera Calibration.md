@@ -215,41 +215,25 @@ Project(img2, point2D2, TwoDD2,save_name='verify of chessboard_2')
 
 That is,
 
-$$
-\begin{align}
-\bb{M} &= \bb{KR} \\
-\bb{P_4} &= \bb{KT}
-\end{align}
-$$
-We know $\bb{K}$ is upper triangular, $\bb{R}$ is orthogonal, we can utilize **RQ-decomposition** to find $\bb{K}, \bb{R}$:
+**M** = **K** **R**  
+**P**<sub>4</sub> = **K** **T**
 
-$$
-\begin{align}
-\bb{M} &= \bb{\hat R} \bb{\hat Q} = \bb{KR} \\
-\therefore 
-\bb{K} &= \bb{\hat R}\\
-\bb{R} &= \bb{\hat Q}
-\end{align}
-$$
+We know **K** is upper triangular and **R** is orthogonal.  
+We can utilize **RQ-decomposition** to find **K**, **R**:
 
-We can use **QR-decomposition** in case you are not able to access RQ-decomposition function (like in matlab). Decomposite $\bb{M^{-1}}$ instead, since the inverse of an upper trigular matrix is upper triangular and the inverse of orthogonal maxtrix is also orthogonal:
+**M** = **Ŕ** **Q̂** = **K** **R**  
+∴ **K** = **Ŕ**, **R** = **Q̂**
 
-$$
-\begin{align}
-\bb{M^{-1}} &= \bb{\dot Q \dot R} \\
-\bb{M} &= \bb{(\dot Q \dot R)^{-1}} = \bb{\dot{R}^{-1}\dot{Q}^{-1}} = \bb{KR} \\
-\therefore 
-\bb{K} &= \bb{\dot{R}^{-1}}\\
-\bb{R} &= \bb{\dot{Q}^{-1}}
-\end{align}
-$$
+If **RQ-decomposition** is not available (e.g., in MATLAB), we can use **QR-decomposition** instead by decomposing **M**⁻¹.  
+This works because the inverse of an upper triangular matrix is also upper triangular, and the inverse of an orthogonal matrix is also orthogonal:
 
-And $\bb{T}$ is simply:
+**M**⁻¹ = **Q̇** **Ṙ**  
+⇒ **M** = (**Q̇** **Ṙ**)<sup>−1</sup> = **Ṙ**⁻¹ **Q̇**⁻¹ = **K** **R**  
+∴ **K** = **Ṙ**⁻¹, **R** = **Q̇**⁻¹
 
-$$
-\bb{T} = \bb{K^{-1} P_4}
-$$
+And **T** is simply:
 
+**T** = **K**⁻¹ **P**<sub>4</sub>
 
 ```python
 def KRt(P):
