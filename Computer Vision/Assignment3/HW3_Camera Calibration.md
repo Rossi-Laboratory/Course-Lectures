@@ -390,7 +390,7 @@ visualize(point3D, R1, T1.reshape(3,1), R2, T2.reshape(3,1),save_name)
     
 
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1dMiojbZ-IWeg42TEWKE4YyGr7izbBZFx" width="80%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1dMiojbZ-IWeg42TEWKE4YyGr7izbBZFx" width="40%">
 
 
 ### (E) Print out two “chessboard.png” in the attached file and paste them on a box. Take two pictures from different angles. For each image, perform the steps above (A ~ D).
@@ -410,7 +410,7 @@ plt.imshow(cb)
 
 
 
-<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1OFdwS-JH8Wm7m9xK7NlRFntkH9J9CzhY" width="80%">
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1OFdwS-JH8Wm7m9xK7NlRFntkH9J9CzhY" width="40%">
 
 
 
