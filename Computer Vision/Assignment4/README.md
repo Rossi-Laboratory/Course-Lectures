@@ -92,8 +92,6 @@ Used to assess the pixel-wise similarity between predicted and ground truth mask
 
 ### Example A
 
-![Example A](https://drive.google.com/uc?export=view&id=11HTFhjpjeQILEZPGncWqtPdoTJGvM5WK)
-
 - PSNR: **17.71**
 - IoU:
   - Armrest (brown): 97.13%
@@ -101,24 +99,26 @@ Used to assess the pixel-wise similarity between predicted and ground truth mask
   - Seat Base (yellow): 85.40%
   - Backrest (gray): 97.28%
 
-### Example B
+![Example A](https://drive.google.com/uc?export=view&id=11HTFhjpjeQILEZPGncWqtPdoTJGvM5WK)
 
-![Example B](https://drive.google.com/uc?export=view&id=1rBU72f3l0dGvJEvJVqKsuMudNLPi3C1u)
+### Example B
 
 - PSNR: **17.21**
 - IoU:
   - Leg (black): 77.18%
   - Seat Base (yellow): 98.49%
 
-### Example C
+![Example B](https://drive.google.com/uc?export=view&id=1rBU72f3l0dGvJEvJVqKsuMudNLPi3C1u)
 
-![Example C](https://drive.google.com/uc?export=view&id=1dZSK0ZbJArXt-uJ6bE9bwg3we-ghv0Uc)
+### Example C
 
 - PSNR: **11.40**
 - IoU:
   - Leg (black): 95.80%
   - Seat Base (yellow): 90.30%
   - Backrest (gray): 94.92%
+
+![Example C](https://drive.google.com/uc?export=view&id=1dZSK0ZbJArXt-uJ6bE9bwg3we-ghv0Uc)
 
 ---
 
