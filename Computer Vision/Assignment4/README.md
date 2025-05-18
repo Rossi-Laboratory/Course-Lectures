@@ -84,7 +84,7 @@ Used to assess the pixel-wise similarity between predicted and ground truth mask
 
 | Epoch 5 | Epoch 10 | Epoch 20 |
 |---------|----------|----------|
-| ![ep5](images/epoch5.png) | ![ep10](images/epoch10.png) | ![ep20](images/epoch20.png) |
+| ![ep5](https://drive.google.com/uc?export=view&id=12RSdCIZdZDH2R7jWqwFQ2pdF21G6sfml) | ![ep10](https://drive.google.com/uc?export=view&id=1sbQla6kTO4ShAB_VVI8x1j6-ZH_QqpL1) | ![ep20](https://drive.google.com/uc?export=view&id=1d3lCJfMcXdolP0XRDHpUnoOHmgpB2BQB) |
 
 ---
 
