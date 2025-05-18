@@ -20,7 +20,7 @@ This homework focuses on **Semantic Segmentation**, with the goal of **segmentin
 
 | Input Image | Ground Truth | Predicted Output |
 |-------------|---------------|------------------|
-| ![input](images/input.png) | ![gt](images/gt.png) | ![output](images/output.png) |
+| ![input]([images/input.png](https://drive.google.com/uc?export=view&id=1ny_p8P2sLOxnk_jDtOK1ynzxFyPR3umC)) | ![gt]([images/gt.png](https://drive.google.com/uc?export=view&id=1pTFZLKo_6noF4uLAdbx-wJK54Ryd_T_d)) | ![output]([images/output.png](https://drive.google.com/uc?export=view&id=1O8VAsMb0lKzsPvdDffGTES6Fie0Kyzkk)) |
 
 ---
 
