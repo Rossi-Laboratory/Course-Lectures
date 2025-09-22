@@ -1,3 +1,17 @@
+# HW1 - Greedy Best-First Search
+
+This repository contains the assignment **HW1: Greedy Best-First Search**.  
+The content below is automatically converted from the original Jupyter Notebook `HW1_Greedy Best-First Search.ipynb`.
+
+---
+
+## Table of Contents
+1. [Assignment Instructions](#assignment-instructions)
+2. [Explanations](#explanations)
+3. [Code Implementation](#code-implementation)
+4. [Experiments and Results](#experiments-and-results)
+
+---
 ```python
 import heapq
 
