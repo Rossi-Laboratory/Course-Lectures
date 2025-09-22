@@ -1,17 +1,67 @@
 # HW1 - Greedy Best-First Search
 
-This repository contains the assignment **HW1: Greedy Best-First Search**.  
-The content below is automatically converted from the original Jupyter Notebook `HW1_Greedy Best-First Search.ipynb`.
+Instructor: YuanFu Yang  
+Email: yfyangd@nycu.edu.tw  
+Course: IIAI30017 - Artificial Intelligence
 
 ---
 
-## Table of Contents
-1. [Assignment Instructions](#assignment-instructions)
-2. [Explanations](#explanations)
-3. [Code Implementation](#code-implementation)
-4. [Experiments and Results](#experiments-and-results)
+## Assignment Information
+- **Due date:** 10/7  
+- **Late penalty:** 1 point deduction per day late.  
+- **Maximum extension:** 3 days (submissions later than this will not be accepted).  
+- **Submission format:**  
+  - Code (`.ipynb`)  
+  - Report (answers to 4 questions) in **PDF**  
+- **Execution environment:** Google Colab or local PC.  
+  - Colab link: [Google Colab](https://colab.research.google.com/?hl=zh-tw)
 
 ---
+
+## Assignment Description
+
+### Task
+Design a **Greedy Best-First Search** algorithm for the **shortest path problem** on the European railway network.  
+
+- Each **node** represents a station.  
+- Each **edge** represents the straight-line distance between stations.  
+- The **goal** is to find the optimal path from a starting station to the destination station **Bucharest**.
+
+### Heuristic
+The heuristic function is defined as the straight-line distance from each station to the destination (Bucharest).  
+Use this heuristic to perform Greedy Best-First Search.
+
+### Provided Data
+- A European railway network graph  
+- Distances between stations  
+- Straight-line distances from each station to Bucharest
+
+---
+
+## Plan-to-Do
+- Implement and refine a function:
+  ```python
+  greedy_best_first_search(start, goal)
+  ```
+- Perform route planning from:
+  - **Arad → Bucharest** (Q1)  
+  - **Oradea → Bucharest** (Q2)  
+  - **Mehadia → Bucharest** (Q2)  
+
+---
+
+## Questions
+1. Provide the route planning from **Arad** to **Bucharest**.  
+2. Provide the route planning from **Oradea** and **Mehadia** to **Bucharest**.  
+3. Discuss the **pros and cons** of Greedy Best-First Search.  
+4. Suggest possible **improvements** to address its disadvantages.  
+
+---
+
+## Notebook Implementation
+
+The following Python code implements the Greedy Best-First Search algorithm and prepares the testing cases.
+
 ```python
 import heapq
 
@@ -86,3 +136,10 @@ print("Path from Oradea to Bucharest:", path)
 path = greedy_best_first_search('Mehadia', 'Bucharest')
 print("Path from Mehadia to Bucharest:", path)
 ```
+
+---
+
+## Contact
+For questions regarding this assignment:  
+**Instructor:** YuanFu Yang  
+**Email:** yfyangd@nycu.edu.tw
